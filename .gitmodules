@@ -1,0 +1,6 @@
+[submodule "mipay-web"]
+	path = mipay-web
+	url = https://github.com/interintel-technologies/mipay-web.git
+[submodule "mipay-android"]
+	path = mipay-android
+	url = https://github.com/interintel-technologies/mipay-android.git
